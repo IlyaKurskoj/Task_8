@@ -6,5 +6,5 @@ step=3
 ingr_list='meat'
 recipe_list=[name,annotation,time_of_cooking,disc,step,ingr_list]
 print(recipe_list)
-list1=recipe_list[:3]
-print(list1)
+list_1=recipe_list[:3]
+print(list_1)
